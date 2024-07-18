@@ -19,11 +19,11 @@ Simply copy the flames.exe into your MS-DOS environment.
 
 ## Tools
 
-| Name | Description |
-| ------ | ------ |
-| Programming Language | BASIC |
-| Compiler | PowerBASIC 3.50 |
-| TUI Library | PB/Vision Professional 1.0 |
+| Name | Description | Remarks |
+| ------ | ------ | ----- |
+| Programming Language | BASIC | QBasic 4.5 compatible |
+| Compiler | PowerBASIC 3.50 | Commercial (_not included_) |
+| TUI Library | PB/Vision Professional 1.0 | Commercial (_not included_) |
 
 ## Screenshot
 ![FlAMES in action](https://github.com/nutsbox/flames/blob/master/Flames%20v0.52.png)
