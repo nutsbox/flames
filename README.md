@@ -11,7 +11,6 @@ FLAMES is an MSDOS program that demonstrate the use of common string functions f
 - Mouse Support
 - Animation
 - Sound
-- MS-DOS or DOSBox
 
 ## Installation
 
