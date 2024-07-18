@@ -31,11 +31,11 @@ Simply copy the flames.exe into your MS-DOS environment.
 | FLAMES.BAS | The BASIC source code |
 | MK.BAT | Batch file that can be used to compile FLAMES using pbc (PowerBASIC command line compiler, instead of the IDE) to produce .EXE |
 | FLAMES.EXE | The FLAMES executable program |
-| Flames v0.52.png | Screenshot of running program |
+| Flames_v0.52.png | Screenshot of running program |
 | README.md | This file |
 
 ## Screenshot
-![FlAMES in action](https://github.com/nutsbox/flames/blob/master/Flames%20v0.52.png)
+![FlAMES in action](https://github.com/nutsbox/flames/blob/master/Flames_v0.52.png)
 
 ## MIT License
 Copyright 1999-present By Nestor A. Jaba-an
