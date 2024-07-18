@@ -27,12 +27,14 @@
 '
 '  Programmer:    Nestor A. Jaba-an
 '
-'  Copyright (c) 1999 - 2018.  Sendsolutions I.T. Consulting Services
+'  License:       MIT License
+'
+'  Copyright (c) 1999 - present By Nestor A. Jaba-an
 '      #6 Mercury St., Bricktown Subd., Phase III - Moonwalk
 '      Paranaque City 1709, Philippines.
-'      Tel.: (632) 821-8979
-'      Mobile: 63.917.858-0461
-'      Email: nestor@sendsolutionsph.com
+'      Tel.: (632) 8821-8979
+'      Mobile: (63) 9178580461
+'      Email: nestor.jabaan@gmail.com
 '
 
 %ISPBU = 0             ' not a .PBU
