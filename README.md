@@ -25,6 +25,16 @@ Simply copy the flames.exe into your MS-DOS environment.
 | Compiler | PowerBASIC 3.50 | Commercial (_not included_) |
 | TUI Library | PB/Vision Professional 1.0 | Commercial (_not included_) |
 
+## Files
+
+| Name | Description |
+| ------ | ------ |
+| FLAMES.BAS | The BASIC source code |
+| MK.BAT | Batch file that can be used to compile FLAMES using pbc (PowerBASIC command line compiler, instead of the IDE) to produce .EXE |
+| FLAMES.EXE | The FLAMES executable program |
+| Flames v0.52.png | Screenshot of running program |
+| README.md | This file |
+
 ## Screenshot
 ![FlAMES in action](https://github.com/nutsbox/flames/blob/master/Flames%20v0.52.png)
 
