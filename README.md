@@ -22,7 +22,7 @@ Simply copy the flames.exe into your MS-DOS environment.
 | ------ | ------ | ----- |
 | Programming Language | BASIC | QBasic 4.5 compatible |
 | Compiler | PowerBASIC 3.50 | Commercial (_not included_) |
-| TUI Library | PB/Vision Professional 1.0 | Commercial (_not included_) |
+| TUI Library | PB/Vision Professional 2.11 | Commercial (_not included_) |
 
 ## Files
 
