@@ -1,5 +1,5 @@
 # Flames v0.52
-### _Demonstrates how to create a simple FLAMES game in PowerBASIC 3.50 and PB/Vision Professional 1.0_
+### _Demonstrates how to create a simple FLAMES game in PowerBASIC 3.50 and PB/Vision Professional 2.11
 
 FLAMES is an MSDOS program that demonstrate the use of common string functions for students of BASIC programming. First, it asks for the name of a lover and a beloved, then it performs the FLAMES routine game.
 
